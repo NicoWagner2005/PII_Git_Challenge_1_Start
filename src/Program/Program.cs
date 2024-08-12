@@ -4,6 +4,7 @@ Console.WriteLine(Multiplication.Multiply(3, 3));
 Console.WriteLine(Division.Divide(18, 2));
 
 
+
 // Esta clase implementa la operación resta error
 public class Substraction
 {
@@ -12,5 +13,4 @@ public class Substraction
         return 0;
     }
 }
-
 

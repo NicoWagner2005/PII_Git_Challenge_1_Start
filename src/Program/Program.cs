@@ -13,9 +13,9 @@ public class Addition
 
 
 // Esta clase implementa la operación resta
-public class Resta
+public class Substraction
 {
-    public static int Restar(int a, int b)
+    public static int Substract(int a, int b)
     {
         return a - b;
     }

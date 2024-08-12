@@ -4,7 +4,7 @@ Console.WriteLine(Multiplication.Multiply(3, 3));
 Console.WriteLine(Division.Divide(18, 2));
 // Esta clase implementa la operación Multiplicacion"
 public class Multiplication
-git{
+{
     public static int Multiply(int a, int b)
     {
         return a * b;
